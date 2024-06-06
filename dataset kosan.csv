@@ -1,0 +1,107 @@
+Nomor,Nama Indekos,pria,wanita,campur,daerah,toilet_dalam,AC,harga,wifi,listrik
+1,Jaya Kost,Iya,Tidak,Tidak,Belwis,Iya,Tidak,4000000,Tidak,Iya
+2,CorHouse 2,Iya,Tidak,Tidak,Sukarame,Iya,Iya,5000000,Iya,Tidak
+3,Kost ijo,Iya,Tidak,Tidak,Belwis,Iya,Tidak,5000000,Iya,Tidak
+4,Molly,Iya,Tidak,Tidak,Sukarame,Tidak,Iya,7200000,Iya,Iya
+5,Kosan pak burhan,Iya,Tidak,Tidak,Belwis,Iya,Tidak,5000000,Iya,Tidak
+6,Kost Pak Sentot,Iya,Tidak,Tidak,Belwis,Iya,Tidak,4000000,Iya,Tidak
+7,Kost ijo 2,Iya,Tidak,Tidak,Belwis,Iya,Tidak,6500000,Iya,Tidak
+8,Corhouse,Tidak,Tidak,Iya,Sukarame,Iya,Iya,7000000,Iya,Tidak
+9,DWS,Iya,Tidak,Tidak,Belwis,Iya,Tidak,7000000,Iya,Tidak
+10,Joesi,Tidak,Tidak,Iya,Jati Sari,Iya,Iya,8000000,Iya,Iya
+11,Joesi 2,Tidak,Tidak,Iya,Jati Sari,Iya,Tidak,6000000,Iya,Iya
+12,Kos Bude Tambal,Iya,Tidak,Tidak,Airan,Iya,Tidak,5000000,Iya,Tidak
+13,Kos Hijau Wayhui,Iya,Tidak,Tidak,Pemda Wahyui,Tidak,Tidak,5000000,Tidak,Iya
+14,Kos Jama-jama,Tidak,Tidak,Iya,Jati Agung,Iya,Iya,12000000,Iya,Tidak
+15,LaCasa 101 Female,Tidak,Iya,Tidak,Jati Agung,Iya,Tidak,8400000,Iya,Tidak
+16,Kost Jalan Durian,Iya,Tidak,Tidak,Jati Agung,Iya,Tidak,6000000,Tidak,Tidak
+17,Kost Asri Ekslusif,Tidak,Iya,Tidak,Sukarame,Iya,Iya,15000000,Iya,Tidak
+18,Kost 1453,Iya,Tidak,Tidak,Jati Agung,Iya,Tidak,6000000,Tidak,Tidak
+19,Kost Regina,Tidak,Iya,Tidak,Pemda Wahyui,Iya,Tidak,6000000,Tidak,Iya
+20,Kost Airan,Iya,Tidak,Tidak,Jati Agung,Iya,Tidak,9000000,Iya,Tidak
+21,Kost Purizkha,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,6000000,Iya,Tidak
+22,Kost Arta,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,6000000,Iya,Tidak
+23,Kost Griya Senopati A,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,5400000,Tidak,Tidak
+24,Kost Arga 2,Tidak,Tidak,Iya,Jati Agung,Iya,Tidak,6000000,Iya,Tidak
+25,Kost Galih Fam A,Tidak,Iya,Tidak,Sukarame,Iya,Iya,11000000,Iya,Tidak
+26,Kost Linggau,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,7200000,Iya,Tidak
+27,Kost Ryouta,Tidak,Tidak,Iya,Jati Agung,Iya,Tidak,7000000,Tidak,Tidak
+28,Kost Dagave,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,6000000,Tidak,Iya
+29,Kost Marissa,Tidak,Iya,Tidak,Sukarame,Iya,Iya,12000000,Iya,Tidak
+30,Kost Durian 14,Tidak,Iya,Tidak,Pemda Wahyui,Iya,Tidak,10000000,Tidak,Tidak
+31,Kost Sumatera,Tidak,Tidak,Iya,Airan,Iya,Tidak,7000000,Iya,Tidak
+32,Kost Nopriyan,Tidak,Iya,Tidak,Belwis,Iya,Tidak,6000000,Tidak,Tidak
+33,Kost Fivi,Tidak,Iya,Tidak,Airan,Tidak,Tidak,6500000,Tidak,Tidak
+34,Kost Green Abah Qomar,Iya,Tidak,Tidak,Sukarame,Iya,Tidak,6000000,Tidak,Tidak
+35,Kost Manggis 7,Tidak,Iya,Tidak,Pemda Wahyui,Tidak,Tidak,6000000,Iya,Tidak
+36,Kost Hidayah Kuring,Iya,Tidak,Tidak,Airan,Iya,Tidak,6000000,Tidak,Iya
+37,Kost Rizdafh,Iya,Tidak,Tidak,Sukarame,Tidak,Tidak,6000000,Iya,Iya
+38,Kost AAA,Tidak,Iya,Tidak,Airan,Iya,Tidak,6500000,Iya,Iya
+39,Kost AAA 2,Tidak,Iya,Tidak,Airan,Iya,Iya,9000000,Iya,Tidak
+40,Kost Pak Win,Tidak,Tidak,Iya,Belwis,Iya,Tidak,7200000,Iya,Tidak
+41,Kost Rizdafh 2,Tidak,Tidak,Iya,Sukarame,Tidak,Tidak,6000000,Iya,Tidak
+42,Kost Sunflower A,Tidak,Iya,Tidak,Jalan Tol,Iya,Iya,12000000,Iya,Tidak
+43,Kost Sunflower B,Tidak,Iya,Tidak,Jalan Tol,Iya,Tidak,10000000,Iya,Tidak
+44,Kost Mekakau,Tidak,Iya,Tidak,Sukarame,Tidak,Tidak,4800000,Tidak,Tidak
+45,Kost Gloria,Tidak,Iya,Tidak,Belwis,Iya,Tidak,7200000,Iya,Iya
+46,Kost Akram,Iya,Tidak,Tidak,Sukarame,Tidak,Tidak,9600000,Iya,Iya
+47,Kost Sekawan,Iya,Tidak,Tidak,Belwis,Iya,Tidak,7000000,Iya,Tidak
+48,Kost Inad 3,Tidak,Tidak,Iya,Pemda Wahyui,Iya,Tidak,6000000,Tidak,Tidak
+49,Kost Els White,Tidak,Iya,Tidak,Sukarame,Iya,Iya,12000000,Iya,Tidak
+50,Kost Griya Bisel,Iya,Tidak,Tidak,Sukarame,Tidak,Tidak,7200000,Iya,Tidak
+51,Kos Griya Senopati B,Tidak,Iya,Tidak,Sukarame,Iya,Iya,12000000,Iya,Tidak
+52,Kost Princess M&R,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,8000000,Iya,Tidak
+53,Kost Nisa VVIP,Tidak,Iya,Tidak,Sukarame,Iya,Iya,10000000,Iya,Tidak
+54,Kost Lamban,Iya,Tidak,Tidak,Belwis,Iya,Tidak,7200000,Iya,Tidak
+55,Kost Cik Lis,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,7200000,Iya,Tidak
+56,Kost Kevin,Tidak,Tidak,Iya,Belwis,Iya,Tidak,6000000,Iya,Tidak
+57,Kost Galih Fam B,Tidak,Tidak,Iya,Sukarame,Iya,Iya,16500000,Iya,Tidak
+58,Kost Damai,Tidak,Tidak,Iya,Airan,Iya,Iya,9600000,Iya,Tidak
+59,Kost Lia Family,Iya,Tidak,Tidak,Jalan Tol,Iya,Tidak,6500000,Iya,Tidak
+60,Kost Lia Family 2,Tidak,Iya,Tidak,Jalan Tol,Iya,Tidak,7200000,Iya,Tidak
+61,Kost Cangguhos,Tidak,Tidak,Iya,Sukarame,Iya,Iya,18000000,Iya,Tidak
+62,Kost Griya Shawana,Iya,Tidak,Tidak,Sukarame,Iya,Iya,12000000,Iya,Tidak
+63,Kost Tanah Teduh B,Tidak,Tidak,Iya,Jalan Tol,Iya,Tidak,7200000,Iya,Tidak
+64,Kost Al Baliro,Iya,Tidak,Tidak,Sukarame,Tidak,Tidak,6000000,Tidak,Tidak
+65,Kost Nobar Dormitory,Tidak,Iya,Tidak,Belwis,Tidak,Tidak,7200000,Iya,Tidak
+66,Kost Griya Anggrek,Tidak,Iya,Tidak,Sukarame,Tidak,Tidak,7200000,Tidak,Tidak
+67,Kost Tanah Teduh A,Tidak,Tidak,Iya,Jalan Tol,Iya,Iya,10000000,Iya,Tidak
+68,Kost Nisa VVIP,Tidak,Iya,Tidak,Sukarame,Iya,Iya,8000000,Iya,Tidak
+69,Kost Setia Kawan A,Tidak,Iya,Tidak,Belwis,Iya,Tidak,7000000,Tidak,Tidak
+70,Kost Lily,Tidak,Iya,Tidak,Airan,Tidak,Tidak,5000000,Tidak,Tidak
+71,Kost Setia Kawan B,Tidak,Iya,Tidak,Belwis,Iya,Iya,9000000,Tidak,Tidak
+72,Kost Arga 1,Tidak,Tidak,Iya,Jati Agung,Iya,Tidak,6000000,Iya,Tidak
+73,Kost Ksatria Standar,Tidak,Iya,Tidak,Airan,Iya,Tidak,6000000,Iya,Tidak
+74,Kost Ksatria Middle,Tidak,Iya,Tidak,Airan,Iya,Iya,7500000,Iya,Tidak
+75,Kost Alzaisaran,Tidak,Iya,Tidak,Kopri,Iya,Tidak,6000000,Iya,Tidak
+76,Kost Fachri,Iya,Tidak,Tidak,Kopri,Iya,Tidak,7500000,Iya,Iya
+77,Kost Sakura Stay,Tidak,Tidak,Iya,Sukarame,Iya,Tidak,8000000,Tidak,Iya
+78,Kost Putri Syariah,Tidak,Iya,Tidak,Airan,Iya,Tidak,7200000,Iya,Tidak
+79,Kost Pesona Hijau,Iya,Tidak,Tidak,Airan,Iya,Tidak,7200000,Tidak,Tidak
+80,Kost Paradifa,Tidak,Iya,Tidak,Kopri,Iya,Tidak,7200000,Tidak,Iya
+81,Kost Asrama Tawakkal,Tidak,Tidak,Iya,Kopri,Iya,Tidak,6000000,Tidak,Tidak
+82,Kost Kopri C11/13,Tidak,Iya,Tidak,Kopri,Tidak,Tidak,3600000,Tidak,Tidak
+83,Kost Griya Bersama,Tidak,Tidak,Iya,Pemda Wahyui,Iya,Iya,15000000,Iya,Tidak
+84,Kost Ibu Amir,Tidak,Iya,Tidak,Kopri,Tidak,Iya,7200000,Tidak,Iya
+85,Kost Asrama Aziziyah,Tidak,Iya,Tidak,Kopri,Iya,Tidak,8500000,Tidak,Iya
+86,Kost Teduh,Tidak,Tidak,Iya,Kopri,Iya,Tidak,6000000,Tidak,Iya
+87,Kost Putri Al Author,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,8400000,Tidak,Tidak
+88,Kost Ellen Tipe A,Tidak,Tidak,Iya,Airan,Iya,Tidak,7000000,Tidak,Tidak
+89,Kost Ellen Tipe B,Tidak,Tidak,Iya,Airan,Iya,Iya,11000000,Tidak,Tidak
+90,Kost Bu Ida,Tidak,Tidak,Iya,Kopri,Iya,Tidak,8400000,Iya,Tidak
+91,Kost M3,Iya,Tidak,Tidak,Airan,Iya,Tidak,6000000,Iya,Tidak
+92,Kost Alba,Iya,Tidak,Tidak,Sukarame,Iya,Iya,12000000,Iya,Tidak
+93,Kost Fathiya,Tidak,Iya,Tidak,Kopri,Tidak,Tidak,6000000,Tidak,Tidak
+94,Kost Pak Rukino,Tidak,Tidak,Iya,Sukarame,Iya,Tidak,5900000,Tidak,Iya
+95,Kost Defva,Tidak,Tidak,Iya,Belwis,Iya,Tidak,6000000,Iya,Tidak
+96,Kost Pintaria,Tidak,Iya,Tidak,Kopri,Iya,Tidak,6000000,Iya,Iya
+97,Kost Ninda 2,Tidak,Tidak,Iya,Sukarame,Iya,Tidak,8400000,Iya,Iya
+98,Kost Puri Tipe A,Tidak,Iya,Tidak,Jati Agung,Iya,Tidak,7000000,Tidak,Tidak
+99,Kost A7,Tidak,Iya,Tidak,Sukarame,Iya,Iya,10000000,Iya,Tidak
+100,Kost Muqqova,Tidak,Iya,Tidak,Sukarame,Iya,Iya,9000000,Iya,Tidak
+101,Kost Al Abidah Tipe A,Tidak,Iya,Tidak,Sukarame,Iya,Tidak,10000000,Tidak,Iya
+102,Kost Stella Atas,Tidak,Iya,Tidak,Jati Agung,Iya,Tidak,8000000,Iya,Tidak
+103,Kost Tentrem Jama Jama Residence,Tidak,Tidak,Iya,Sukarame,Iya,Iya,14000000,Iya,Tidak
+104,Kost Bayt Eksklusif,Tidak,Tidak,Iya,Sukarame,Iya,Iya,15000000,Iya,Tidak
+105,Kost Classy Comfortable,Iya,Tidak,Tidak,Airan,Iya,Tidak,9600000,Iya,Tidak
+106,Kost Nafiza,Iya,Tidak,Tidak,Sukarame,Iya,Tidak,6000000,Tidak,Tidak
